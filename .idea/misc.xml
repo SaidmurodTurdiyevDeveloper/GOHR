@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/projects/Gohr/app/src/main/res/drawable/btn_round_background.xml" value="0.155" />
+        <entry key="..\:/projects/Gohr/app/src/main/res/drawable/btn_som_bcg.xml" value="0.155" />
+        <entry key="..\:/projects/Gohr/app/src/main/res/drawable/editext_background.xml" value="0.155" />
+        <entry key="..\:/projects/Gohr/app/src/main/res/drawable/ic_add.xml" value="0.23" />
+        <entry key="..\:/projects/Gohr/app/src/main/res/drawable/ic_back.xml" value="0.23" />
+        <entry key="..\:/projects/Gohr/app/src/main/res/drawable/ic_double_next.xml" value="0.23" />
+        <entry key="..\:/projects/Gohr/app/src/main/res/drawable/ic_filter.xml" value="0.155" />
+        <entry key="..\:/projects/Gohr/app/src/main/res/drawable/ic_lock_open_24.xml" value="0.23" />
+        <entry key="..\:/projects/Gohr/app/src/main/res/drawable/ic_notifications.xml" value="0.182" />
+        <entry key="..\:/projects/Gohr/app/src/main/res/drawable/item_bottom_app_bar_selector.xml" value="0.155" />
+        <entry key="..\:/projects/Gohr/app/src/main/res/drawable/rectangle_background.xml" value="0.155" />
+        <entry key="..\:/projects/Gohr/app/src/main/res/drawable/round_background.xml" value="0.155" />
+        <entry key="..\:/projects/Gohr/app/src/main/res/drawable/tab_indicator.xml" value="0.182" />
+        <entry key="..\:/projects/Gohr/app/src/main/res/drawable/tab_layout_bg.xml" value="0.182" />
+        <entry key="..\:/projects/Gohr/app/src/main/res/drawable/tab_layout_fg.xml" value="0.182" />
+        <entry key="..\:/projects/Gohr/app/src/main/res/layout-v28/screen_permission.xml" value="0.21927083333333333" />
+        <entry key="..\:/projects/Gohr/app/src/main/res/layout/activity_main.xml" value="0.21927083333333333" />
+        <entry key="..\:/projects/Gohr/app/src/main/res/layout/activity_splash.xml" value="0.21927083333333333" />
+        <entry key="..\:/projects/Gohr/app/src/main/res/layout/item_complain.xml" value="0.21927083333333333" />
+        <entry key="..\:/projects/Gohr/app/src/main/res/layout/item_home.xml" value="0.21822916666666667" />
+        <entry key="..\:/projects/Gohr/app/src/main/res/layout/item_request.xml" value="0.21927083333333333" />
+        <entry key="..\:/projects/Gohr/app/src/main/res/layout/item_table.xml" value="0.21822916666666667" />
+        <entry key="..\:/projects/Gohr/app/src/main/res/layout/screen_additional_work.xml" value="0.21927083333333333" />
+        <entry key="..\:/projects/Gohr/app/src/main/res/layout/screen_advance.xml" value="0.21822916666666667" />
+        <entry key="..\:/projects/Gohr/app/src/main/res/layout/screen_complain.xml" value="0.21822916666666667" />
+        <entry key="..\:/projects/Gohr/app/src/main/res/layout/screen_complain_inside.xml" value="0.21927083333333333" />
+        <entry key="..\:/projects/Gohr/app/src/main/res/layout/screen_create_complain.xml" value="0.21927083333333333" />
+        <entry key="..\:/projects/Gohr/app/src/main/res/layout/screen_create_request.xml" value="0.21822916666666667" />
+        <entry key="..\:/projects/Gohr/app/src/main/res/layout/screen_holiday.xml" value="0.21822916666666667" />
+        <entry key="..\:/projects/Gohr/app/src/main/res/layout/screen_home.xml" value="0.21927083333333333" />
+        <entry key="..\:/projects/Gohr/app/src/main/res/layout/screen_id.xml" value="0.21927083333333333" />
+        <entry key="..\:/projects/Gohr/app/src/main/res/layout/screen_main.xml" value="0.17905982905982906" />
+        <entry key="..\:/projects/Gohr/app/src/main/res/layout/screen_my_complains.xml" value="0.21822916666666667" />
+        <entry key="..\:/projects/Gohr/app/src/main/res/layout/screen_my_requsts.xml" value="0.21822916666666667" />
+        <entry key="..\:/projects/Gohr/app/src/main/res/layout/screen_password.xml" value="0.21927083333333333" />
+        <entry key="..\:/projects/Gohr/app/src/main/res/layout/screen_permission.xml" value="0.21822916666666667" />
+        <entry key="..\:/projects/Gohr/app/src/main/res/layout/screen_profile.xml" value="0.21822916666666667" />
+        <entry key="..\:/projects/Gohr/app/src/main/res/layout/screen_starting.xml" value="0.21822916666666667" />
+        <entry key="..\:/projects/Gohr/app/src/main/res/layout/screen_table.xml" value="0.21822916666666667" />
+        <entry key="..\:/projects/Gohr/app/src/main/res/layout/screen_user_id.xml" value="0.21927083333333333" />
+        <entry key="..\:/projects/Gohr/app/src/main/res/menu/bottom_menu.xml" value="0.21822916666666667" />
+        <entry key="..\:/projects/Gohr/app/src/main/res/menu/home_menu.xml" value="0.21822916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

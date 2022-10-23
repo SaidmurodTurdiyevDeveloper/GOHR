@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Gohr</string>
+
+    //months
+    <string name="January">Yanvar</string>
+    <string name="February">Fevral</string>
+    <string name="March">Mart</string>
+    <string name="April">Aprel</string>
+    <string name="May">May</string>
+    <string name="June">Iyun</string>
+    <string name="July">Iyul</string>
+    <string name="August">Avgust</string>
+    <string name="September">Sentabr</string>
+    <string name="Oktober">oktabr</string>
+    <string name="November">Noyabr</string>
+    <string name="December">Dekabr</string>
+    <string name="WrongMonth">Nothing</string>
+
+    //numbers
+    <string name="text_one">1</string>
+    <string name="text_two">2</string>
+    <string name="text_three">3</string>
+    <string name="text_four">4</string>
+    <string name="text_five">5</string>
+    <string name="text_six">6</string>
+    <string name="text_seven">7</string>
+    <string name="text_eight">8</string>
+    <string name="text_nine">9</string>
+    <string name="text_zero">0</string>
+
+    //different text
+    <string name="text_welcome">Xush kelibsiz</string>
+    <string name="text_password">Parolingizni kiriting</string>
+    <string name="text_enter">ID ORQALI KIRISH</string>
+    <string name="text_open_qr_code">QR-KOD ORQALI KIRISH</string>
+    <string name="text_setting">Sozlamalar</string>
+    <string name="text_log_out">Chiqish</string>
+    <string name="text_reason_go">Sabab</string>
+    <string name="text_time_go">Ketish vaqti</string>
+    <string name="text_time_go_back">Kelish vaqti</string>
+    <string name="text_date_and_time">Sana va vaqt</string>
+    <string name="text_request_type">So`rov turi</string>
+    <string name="text_boss">Raxbar</string>
+    <string name="text_theme">Mavzu</string>
+    <string name="text_date">Kun</string>
+    <string name="text_time">Soat</string>
+    <string name="text_quantity">Summa</string>
+    <string name="text_description">Izoh</string>
+    <string name="text_som">So`m</string>
+    <string name="text_advance_amount">Avans miqdori</string>
+    <string name="text_advance">Avans</string>
+    <string name="text_period">Muddat</string>
+    <string name="text_requests">So`rovlar</string>
+    <string name="text_request">So`rov</string>
+    <string name="text_permission">Ruxsat</string>
+    <string name="text_holiday">Ta`til</string>
+    <string name="text_type">Turi</string>
+    <string name="text_additional">Qo`shimcha ish</string>
+    <string name="text_table">Jadval</string>
+    <string name="text_complain">Shikoyat</string>
+    <string name="text_profile">Profil</string>
+    <string name="text_request_permission">Ruxsat:</string>
+    <string name="text_request_advance">Avans:</string>
+    <string name="text_request_holiday">Tatil:</string>
+    <string name="text_add">So`rov qo`shish</string>
+    <string name="text_filter">Saralash</string>
+    <string name="text_all_work_day">Jami ish kunlari</string>
+    <string name="text_all_work_time">Jami ish soatlari</string>
+    <string name="text_today_work_time">Bugungi ish soatlari</string>
+    <string name="text_info_worker">Xodimning ishga kelgan va kelmaganligi haqidagi ma`lumot</string>
+    <string name="text_time_2">Vaqtlar</string>
+    <string name="text_send">Yuborish</string>
+
+</resources>

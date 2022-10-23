@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/starting_nav_host"
+    app:startDestination="@id/fragmentStarting">
+
+    <fragment
+        android:id="@+id/fragmentStarting"
+        tools:layout="@layout/screen_starting"
+        android:name="com.example.gohr.ui.screen.starting.FragmentStarting"
+        android:label="FragmentStarting" >
+        <action
+            android:id="@+id/action_fragmentStarting_to_fragmentUserId"
+            app:destination="@id/fragmentUserId" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentUserId"
+        tools:layout="@layout/screen_user_id"
+        android:name="com.example.gohr.ui.screen.user_id.FragmentUserId"
+        android:label="FragmentUserId" >
+        <action
+            android:id="@+id/action_fragmentUserId_to_fragmentPassword"
+            app:destination="@id/fragmentPassword" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentPassword"
+        tools:layout="@layout/screen_password"
+        android:name="com.example.gohr.ui.screen.password.FragmentPassword"
+        android:label="FragmentPassword" />
+</navigation>
